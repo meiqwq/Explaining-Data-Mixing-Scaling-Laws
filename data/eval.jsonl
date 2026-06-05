@@ -1,0 +1,248 @@
+{"index": 1, "domain": "NIH ExPorter", "avg_loss": 2.7154340516051936}
+{"index": 1, "domain": "PhilPapers", "avg_loss": 3.208665190511167}
+{"index": 1, "domain": "Enron Emails", "avg_loss": 2.8646178442634276}
+{"index": 1, "domain": "EuroParl", "avg_loss": 4.040906666271428}
+{"index": 2, "domain": "NIH ExPorter", "avg_loss": 2.6048180029367787}
+{"index": 2, "domain": "PhilPapers", "avg_loss": 2.6636701503084037}
+{"index": 2, "domain": "Enron Emails", "avg_loss": 2.8970640648896246}
+{"index": 2, "domain": "EuroParl", "avg_loss": 3.0412917772108803}
+{"index": 3, "domain": "NIH ExPorter", "avg_loss": 2.595177049078733}
+{"index": 3, "domain": "PhilPapers", "avg_loss": 3.149066685608626}
+{"index": 3, "domain": "Enron Emails", "avg_loss": 2.8124054330490367}
+{"index": 3, "domain": "EuroParl", "avg_loss": 3.7549305409136693}
+{"index": 4, "domain": "NIH ExPorter", "avg_loss": 2.7012950240725417}
+{"index": 4, "domain": "PhilPapers", "avg_loss": 3.0479239397837796}
+{"index": 4, "domain": "Enron Emails", "avg_loss": 2.868885262806419}
+{"index": 4, "domain": "EuroParl", "avg_loss": 1.5313541503373562}
+{"index": 6, "domain": "NIH ExPorter", "avg_loss": 2.744737636288694}
+{"index": 6, "domain": "PhilPapers", "avg_loss": 3.2105026085123276}
+{"index": 6, "domain": "Enron Emails", "avg_loss": 2.5530955407203577}
+{"index": 6, "domain": "EuroParl", "avg_loss": 2.799602994394692}
+{"index": 7, "domain": "NIH ExPorter", "avg_loss": 2.798152125022444}
+{"index": 7, "domain": "PhilPapers", "avg_loss": 3.0860126130480054}
+{"index": 7, "domain": "Enron Emails", "avg_loss": 2.879808171379708}
+{"index": 7, "domain": "EuroParl", "avg_loss": 1.5139279454229275}
+{"index": 8, "domain": "NIH ExPorter", "avg_loss": 2.723663335019356}
+{"index": 8, "domain": "PhilPapers", "avg_loss": 3.1250916402099493}
+{"index": 8, "domain": "Enron Emails", "avg_loss": 2.81561099098525}
+{"index": 8, "domain": "EuroParl", "avg_loss": 3.9405305625681426}
+{"index": 9, "domain": "NIH ExPorter", "avg_loss": 2.7106024240906983}
+{"index": 9, "domain": "PhilPapers", "avg_loss": 3.1495448067647476}
+{"index": 9, "domain": "Enron Emails", "avg_loss": 2.8263469049596566}
+{"index": 9, "domain": "EuroParl", "avg_loss": 3.7351877211882623}
+{"index": 10, "domain": "NIH ExPorter", "avg_loss": 2.6437877316669436}
+{"index": 10, "domain": "PhilPapers", "avg_loss": 3.2166610748818223}
+{"index": 10, "domain": "Enron Emails", "avg_loss": 2.8909897987939126}
+{"index": 10, "domain": "EuroParl", "avg_loss": 3.285230370279956}
+{"index": 11, "domain": "NIH ExPorter", "avg_loss": 2.7081654441367267}
+{"index": 11, "domain": "PhilPapers", "avg_loss": 3.146377781392639}
+{"index": 11, "domain": "Enron Emails", "avg_loss": 2.821080623046564}
+{"index": 11, "domain": "EuroParl", "avg_loss": 2.363780550777177}
+{"index": 12, "domain": "NIH ExPorter", "avg_loss": 2.6306959420678475}
+{"index": 12, "domain": "PhilPapers", "avg_loss": 3.0998830167521207}
+{"index": 12, "domain": "Enron Emails", "avg_loss": 2.827046230081553}
+{"index": 12, "domain": "EuroParl", "avg_loss": 2.3761781072601296}
+{"index": 14, "domain": "NIH ExPorter", "avg_loss": 2.371498040332542}
+{"index": 14, "domain": "PhilPapers", "avg_loss": 2.5695857328621163}
+{"index": 14, "domain": "Enron Emails", "avg_loss": 3.028176069718544}
+{"index": 14, "domain": "EuroParl", "avg_loss": 2.108934238748164}
+{"index": 15, "domain": "NIH ExPorter", "avg_loss": 2.765670266197658}
+{"index": 15, "domain": "PhilPapers", "avg_loss": 2.7355507583783556}
+{"index": 15, "domain": "Enron Emails", "avg_loss": 2.8415899695440525}
+{"index": 15, "domain": "EuroParl", "avg_loss": 3.163775664528026}
+{"index": 16, "domain": "NIH ExPorter", "avg_loss": 2.712325430685204}
+{"index": 16, "domain": "PhilPapers", "avg_loss": 3.17692278179507}
+{"index": 16, "domain": "Enron Emails", "avg_loss": 2.874173358454886}
+{"index": 16, "domain": "EuroParl", "avg_loss": 3.5595028149464674}
+{"index": 17, "domain": "NIH ExPorter", "avg_loss": 2.5633638644909658}
+{"index": 17, "domain": "PhilPapers", "avg_loss": 2.965322371171807}
+{"index": 17, "domain": "Enron Emails", "avg_loss": 2.888858756377057}
+{"index": 17, "domain": "EuroParl", "avg_loss": 2.302468537614239}
+{"index": 18, "domain": "NIH ExPorter", "avg_loss": 2.817551501249185}
+{"index": 18, "domain": "PhilPapers", "avg_loss": 3.1543171051484644}
+{"index": 18, "domain": "Enron Emails", "avg_loss": 2.8609682422170306}
+{"index": 18, "domain": "EuroParl", "avg_loss": 3.498596906443472}
+{"index": 19, "domain": "NIH ExPorter", "avg_loss": 2.7669539452241203}
+{"index": 19, "domain": "PhilPapers", "avg_loss": 2.767780893729895}
+{"index": 19, "domain": "Enron Emails", "avg_loss": 2.982455612263447}
+{"index": 19, "domain": "EuroParl", "avg_loss": 3.1077797553226403}
+{"index": 20, "domain": "NIH ExPorter", "avg_loss": 2.6743821362121163}
+{"index": 20, "domain": "PhilPapers", "avg_loss": 3.16731729213784}
+{"index": 20, "domain": "Enron Emails", "avg_loss": 2.7984236212979527}
+{"index": 20, "domain": "EuroParl", "avg_loss": 2.7995028462109706}
+{"index": 21, "domain": "NIH ExPorter", "avg_loss": 2.7461774431510664}
+{"index": 21, "domain": "PhilPapers", "avg_loss": 3.1124826904696503}
+{"index": 21, "domain": "Enron Emails", "avg_loss": 2.8659311713508067}
+{"index": 21, "domain": "EuroParl", "avg_loss": 2.134474320663815}
+{"index": 22, "domain": "NIH ExPorter", "avg_loss": 2.5778588540497878}
+{"index": 22, "domain": "PhilPapers", "avg_loss": 3.2074352508094015}
+{"index": 22, "domain": "Enron Emails", "avg_loss": 2.939056671741586}
+{"index": 22, "domain": "EuroParl", "avg_loss": 3.773627445208417}
+{"index": 23, "domain": "NIH ExPorter", "avg_loss": 2.6500677177595717}
+{"index": 23, "domain": "PhilPapers", "avg_loss": 3.1457983647823675}
+{"index": 23, "domain": "Enron Emails", "avg_loss": 2.8204486119273824}
+{"index": 23, "domain": "EuroParl", "avg_loss": 3.935599374190448}
+{"index": 24, "domain": "NIH ExPorter", "avg_loss": 2.707986075059295}
+{"index": 24, "domain": "PhilPapers", "avg_loss": 3.257581651660311}
+{"index": 24, "domain": "Enron Emails", "avg_loss": 2.9069343802761467}
+{"index": 24, "domain": "EuroParl", "avg_loss": 3.645076734444744}
+{"index": 25, "domain": "NIH ExPorter", "avg_loss": 2.6214680305175393}
+{"index": 25, "domain": "PhilPapers", "avg_loss": 2.957084194036371}
+{"index": 25, "domain": "Enron Emails", "avg_loss": 2.906675940434854}
+{"index": 25, "domain": "EuroParl", "avg_loss": 3.6210655581020923}
+{"index": 26, "domain": "NIH ExPorter", "avg_loss": 2.737771474381564}
+{"index": 26, "domain": "PhilPapers", "avg_loss": 3.1941078113681054}
+{"index": 26, "domain": "Enron Emails", "avg_loss": 2.8739727075474146}
+{"index": 26, "domain": "EuroParl", "avg_loss": 3.7141683680077926}
+{"index": 27, "domain": "NIH ExPorter", "avg_loss": 2.755234244012044}
+{"index": 27, "domain": "PhilPapers", "avg_loss": 3.1155863912957167}
+{"index": 27, "domain": "Enron Emails", "avg_loss": 2.8540192751791333}
+{"index": 27, "domain": "EuroParl", "avg_loss": 2.1164450145634945}
+{"index": 28, "domain": "NIH ExPorter", "avg_loss": 2.711783682167723}
+{"index": 28, "domain": "PhilPapers", "avg_loss": 3.1641053618901633}
+{"index": 28, "domain": "Enron Emails", "avg_loss": 2.8888300186602645}
+{"index": 28, "domain": "EuroParl", "avg_loss": 3.604930658702609}
+{"index": 29, "domain": "NIH ExPorter", "avg_loss": 2.736157203356023}
+{"index": 29, "domain": "PhilPapers", "avg_loss": 3.09139789513978}
+{"index": 29, "domain": "Enron Emails", "avg_loss": 2.82714778367363}
+{"index": 29, "domain": "EuroParl", "avg_loss": 3.6161917766869935}
+{"index": 30, "domain": "NIH ExPorter", "avg_loss": 2.4059193317998817}
+{"index": 30, "domain": "PhilPapers", "avg_loss": 2.753719979080309}
+{"index": 30, "domain": "Enron Emails", "avg_loss": 2.8987345901288735}
+{"index": 30, "domain": "EuroParl", "avg_loss": 1.714855708810042}
+{"index": 31, "domain": "NIH ExPorter", "avg_loss": 2.7227300329094697}
+{"index": 31, "domain": "PhilPapers", "avg_loss": 3.1742359882077724}
+{"index": 31, "domain": "Enron Emails", "avg_loss": 2.9267053822261944}
+{"index": 31, "domain": "EuroParl", "avg_loss": 3.365754203909465}
+{"index": 32, "domain": "NIH ExPorter", "avg_loss": 2.66716993767106}
+{"index": 32, "domain": "PhilPapers", "avg_loss": 3.12552931159814}
+{"index": 32, "domain": "Enron Emails", "avg_loss": 2.8396799291355346}
+{"index": 32, "domain": "EuroParl", "avg_loss": 3.4883855037814513}
+{"index": 33, "domain": "NIH ExPorter", "avg_loss": 2.588833247873801}
+{"index": 33, "domain": "PhilPapers", "avg_loss": 3.117395546817752}
+{"index": 33, "domain": "Enron Emails", "avg_loss": 2.9186657593834857}
+{"index": 33, "domain": "EuroParl", "avg_loss": 2.1439402994447136}
+{"index": 34, "domain": "NIH ExPorter", "avg_loss": 2.802790168961911}
+{"index": 34, "domain": "PhilPapers", "avg_loss": 3.0437049390957727}
+{"index": 34, "domain": "Enron Emails", "avg_loss": 2.8628216509200546}
+{"index": 34, "domain": "EuroParl", "avg_loss": 1.819352284457282}
+{"index": 35, "domain": "NIH ExPorter", "avg_loss": 2.716429510184582}
+{"index": 35, "domain": "PhilPapers", "avg_loss": 2.967224453688833}
+{"index": 35, "domain": "Enron Emails", "avg_loss": 2.7860686130943972}
+{"index": 35, "domain": "EuroParl", "avg_loss": 3.8391971129145572}
+{"index": 36, "domain": "NIH ExPorter", "avg_loss": 2.6337046241554787}
+{"index": 36, "domain": "PhilPapers", "avg_loss": 3.1534905104996453}
+{"index": 36, "domain": "Enron Emails", "avg_loss": 2.5309209723995347}
+{"index": 36, "domain": "EuroParl", "avg_loss": 3.7513206182445322}
+{"index": 37, "domain": "NIH ExPorter", "avg_loss": 0.7203824293051753}
+{"index": 37, "domain": "PhilPapers", "avg_loss": 3.5180390838332105}
+{"index": 37, "domain": "Enron Emails", "avg_loss": 3.1422488422825166}
+{"index": 37, "domain": "EuroParl", "avg_loss": 4.3342679246613045}
+{"index": 38, "domain": "NIH ExPorter", "avg_loss": 2.512498994096035}
+{"index": 38, "domain": "PhilPapers", "avg_loss": 3.2533578775505707}
+{"index": 38, "domain": "Enron Emails", "avg_loss": 3.0613050500573618}
+{"index": 38, "domain": "EuroParl", "avg_loss": 3.436280616015468}
+{"index": 39, "domain": "NIH ExPorter", "avg_loss": 2.6900103915117923}
+{"index": 39, "domain": "PhilPapers", "avg_loss": 3.170411229454222}
+{"index": 39, "domain": "Enron Emails", "avg_loss": 2.867063124495888}
+{"index": 39, "domain": "EuroParl", "avg_loss": 3.2055583822136984}
+{"index": 40, "domain": "NIH ExPorter", "avg_loss": 2.7954908788391233}
+{"index": 40, "domain": "PhilPapers", "avg_loss": 3.0790608190504414}
+{"index": 40, "domain": "Enron Emails", "avg_loss": 2.8688375943371716}
+{"index": 40, "domain": "EuroParl", "avg_loss": 1.5652801163092271}
+{"index": 41, "domain": "NIH ExPorter", "avg_loss": 2.6662561551764457}
+{"index": 41, "domain": "PhilPapers", "avg_loss": 3.328684998013373}
+{"index": 41, "domain": "Enron Emails", "avg_loss": 3.006224520714763}
+{"index": 41, "domain": "EuroParl", "avg_loss": 4.209593982092942}
+{"index": 42, "domain": "NIH ExPorter", "avg_loss": 2.7240486054123214}
+{"index": 42, "domain": "PhilPapers", "avg_loss": 3.200151937305805}
+{"index": 42, "domain": "Enron Emails", "avg_loss": 2.8536138051671824}
+{"index": 42, "domain": "EuroParl", "avg_loss": 4.010001405979689}
+{"index": 43, "domain": "NIH ExPorter", "avg_loss": 2.7355153565635493}
+{"index": 43, "domain": "PhilPapers", "avg_loss": 3.1414498551096335}
+{"index": 43, "domain": "Enron Emails", "avg_loss": 2.785707868255009}
+{"index": 43, "domain": "EuroParl", "avg_loss": 3.8222381547069992}
+{"index": 44, "domain": "NIH ExPorter", "avg_loss": 2.663236317012155}
+{"index": 44, "domain": "PhilPapers", "avg_loss": 3.213355460548796}
+{"index": 44, "domain": "Enron Emails", "avg_loss": 2.847638964916092}
+{"index": 44, "domain": "EuroParl", "avg_loss": 2.8875356644503754}
+{"index": 45, "domain": "NIH ExPorter", "avg_loss": 2.7662508676417352}
+{"index": 45, "domain": "PhilPapers", "avg_loss": 3.1999293657593557}
+{"index": 45, "domain": "Enron Emails", "avg_loss": 2.9052470099752523}
+{"index": 45, "domain": "EuroParl", "avg_loss": 2.7844290481632172}
+{"index": 46, "domain": "NIH ExPorter", "avg_loss": 2.743988173325432}
+{"index": 46, "domain": "PhilPapers", "avg_loss": 3.1172935180748884}
+{"index": 46, "domain": "Enron Emails", "avg_loss": 2.8480297294147165}
+{"index": 46, "domain": "EuroParl", "avg_loss": 2.1309480147872897}
+{"index": 47, "domain": "NIH ExPorter", "avg_loss": 2.7012300270150114}
+{"index": 47, "domain": "PhilPapers", "avg_loss": 3.1557851728331023}
+{"index": 47, "domain": "Enron Emails", "avg_loss": 2.815986767501479}
+{"index": 47, "domain": "EuroParl", "avg_loss": 3.664540651770972}
+{"index": 48, "domain": "NIH ExPorter", "avg_loss": 2.711434255899308}
+{"index": 48, "domain": "PhilPapers", "avg_loss": 3.15964277582087}
+{"index": 48, "domain": "Enron Emails", "avg_loss": 2.793369163644714}
+{"index": 48, "domain": "EuroParl", "avg_loss": 3.6900876477551257}
+{"index": 49, "domain": "NIH ExPorter", "avg_loss": 2.7229980058058336}
+{"index": 49, "domain": "PhilPapers", "avg_loss": 3.166528051184606}
+{"index": 49, "domain": "Enron Emails", "avg_loss": 2.7885263140340384}
+{"index": 49, "domain": "EuroParl", "avg_loss": 3.653120425365957}
+{"index": 50, "domain": "NIH ExPorter", "avg_loss": 2.6635136335444702}
+{"index": 50, "domain": "PhilPapers", "avg_loss": 3.2041521368911994}
+{"index": 50, "domain": "Enron Emails", "avg_loss": 2.913683275910844}
+{"index": 50, "domain": "EuroParl", "avg_loss": 2.421370883276019}
+{"index": 51, "domain": "NIH ExPorter", "avg_loss": 2.4090174512418505}
+{"index": 51, "domain": "PhilPapers", "avg_loss": 2.8104305985791047}
+{"index": 51, "domain": "Enron Emails", "avg_loss": 2.8049951973009213}
+{"index": 51, "domain": "EuroParl", "avg_loss": 2.4589006099233335}
+{"index": 52, "domain": "NIH ExPorter", "avg_loss": 2.6444644976581246}
+{"index": 52, "domain": "PhilPapers", "avg_loss": 3.213733841690085}
+{"index": 52, "domain": "Enron Emails", "avg_loss": 2.927021164886746}
+{"index": 52, "domain": "EuroParl", "avg_loss": 3.58113594286527}
+{"index": 53, "domain": "NIH ExPorter", "avg_loss": 2.7676294203284955}
+{"index": 53, "domain": "PhilPapers", "avg_loss": 3.2415912161480445}
+{"index": 53, "domain": "Enron Emails", "avg_loss": 2.8132784363086794}
+{"index": 53, "domain": "EuroParl", "avg_loss": 3.5595524069751385}
+{"index": 54, "domain": "NIH ExPorter", "avg_loss": 2.6539431658680446}
+{"index": 54, "domain": "PhilPapers", "avg_loss": 3.187504033000979}
+{"index": 54, "domain": "Enron Emails", "avg_loss": 2.8693804315354687}
+{"index": 54, "domain": "EuroParl", "avg_loss": 3.7981219474934287}
+{"index": 55, "domain": "NIH ExPorter", "avg_loss": 2.6403526832340396}
+{"index": 55, "domain": "PhilPapers", "avg_loss": 3.269268781882465}
+{"index": 55, "domain": "Enron Emails", "avg_loss": 2.964564856299738}
+{"index": 55, "domain": "EuroParl", "avg_loss": 3.3495831148999944}
+{"index": 56, "domain": "NIH ExPorter", "avg_loss": 2.639084760804717}
+{"index": 56, "domain": "PhilPapers", "avg_loss": 3.14486112507199}
+{"index": 56, "domain": "Enron Emails", "avg_loss": 2.8257628857040107}
+{"index": 56, "domain": "EuroParl", "avg_loss": 3.7183558612029497}
+{"index": 57, "domain": "NIH ExPorter", "avg_loss": 2.7378792158334933}
+{"index": 57, "domain": "PhilPapers", "avg_loss": 3.155095670043462}
+{"index": 57, "domain": "Enron Emails", "avg_loss": 1.6824363531811497}
+{"index": 57, "domain": "EuroParl", "avg_loss": 3.820276379141359}
+{"index": 58, "domain": "NIH ExPorter", "avg_loss": 2.7962147945777285}
+{"index": 58, "domain": "PhilPapers", "avg_loss": 2.4436347474432774}
+{"index": 58, "domain": "Enron Emails", "avg_loss": 2.579940954408993}
+{"index": 58, "domain": "EuroParl", "avg_loss": 1.952700802361883}
+{"index": 59, "domain": "NIH ExPorter", "avg_loss": 2.717114335387592}
+{"index": 59, "domain": "PhilPapers", "avg_loss": 3.2034521824671143}
+{"index": 59, "domain": "Enron Emails", "avg_loss": 2.916267579817963}
+{"index": 59, "domain": "EuroParl", "avg_loss": 3.10013700756922}
+{"index": 60, "domain": "NIH ExPorter", "avg_loss": 2.7005161229556105}
+{"index": 60, "domain": "PhilPapers", "avg_loss": 2.5489079130690766}
+{"index": 60, "domain": "Enron Emails", "avg_loss": 2.8302764414253496}
+{"index": 60, "domain": "EuroParl", "avg_loss": 3.108926296908014}
+{"index": 61, "domain": "NIH ExPorter", "avg_loss": 2.615919895490033}
+{"index": 61, "domain": "PhilPapers", "avg_loss": 3.1330778356373314}
+{"index": 61, "domain": "Enron Emails", "avg_loss": 2.51046524986303}
+{"index": 61, "domain": "EuroParl", "avg_loss": 2.890161614253761}
+{"index": 62, "domain": "NIH ExPorter", "avg_loss": 2.699079664960845}
+{"index": 62, "domain": "PhilPapers", "avg_loss": 3.183941752334846}
+{"index": 62, "domain": "Enron Emails", "avg_loss": 2.880783334565554}
+{"index": 62, "domain": "EuroParl", "avg_loss": 3.6798201144266884}
+{"index": 63, "domain": "NIH ExPorter", "avg_loss": 2.376062337645691}
+{"index": 63, "domain": "PhilPapers", "avg_loss": 3.1487966413876096}
+{"index": 63, "domain": "Enron Emails", "avg_loss": 2.3033568175180386}
+{"index": 63, "domain": "EuroParl", "avg_loss": 2.625363873726396}
+{"index": 64, "domain": "NIH ExPorter", "avg_loss": 2.410370555894279}
+{"index": 64, "domain": "PhilPapers", "avg_loss": 3.1996859878919457}
+{"index": 64, "domain": "Enron Emails", "avg_loss": 2.860924705849895}
+{"index": 64, "domain": "EuroParl", "avg_loss": 2.3969035891099075}
