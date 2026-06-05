@@ -80,13 +80,13 @@ python fitting_4domains.py
 
 Domains: `Github_text_document`, `Gutenberg_text_document`, `StackExchange_text_document`, `Wikipedia_text_document`
 
-### 17-Domain Pile (numpy/scipy) — `fitting_17domains_eq3.py` / `fitting_17domains_eq4.py`
+### 17-Domain Pile (numpy/scipy) — `fitting_17domains_eq1.py` / `fitting_17domains_eq3.py`
 
-Same Pile data with 17 domains, using `law2init` (Eq. 3) or `law1` (Eq. 4) respectively.
+Same Pile data with 17 domains, using `law2init` (Eq. 3) or `law1` (Eq. 1) respectively.
 
 ```bash
 python fitting_17domains_eq3.py   # law2init
-python fitting_17domains_eq4.py   # law1
+python fitting_17domains_eq1.py   # law1
 ```
 
 ---
